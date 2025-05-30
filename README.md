@@ -8,10 +8,9 @@
 ## 👨🏻‍💻 About Me
 
 🎓 Pursuing Bachelor's in Information Technology.  
-💻 Passionate about Java, Python, and Data Science.  
-🌱 Currently enhancing skills in Data Analytics and Machine Learning.  
-📈 Interested in Data Analytics and Visualization projects, turning data into captivating insights and impactful visuals.
-
+💻 Passionate about Data Science, AI, Machine Learning, Python, and SQL.  
+🌱 Currently enhancing skills in Data Scientist and Machine Learning.  
+📈 Leveraging data science to craft insightful visualizations that transform complex datasets into actionable intelligence.
 ---
 
 ## 🛠 Tech Stack
