@@ -1,12 +1,58 @@
-- 👋 Hi, I’m @binduramella
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Ramella HimaBindu 👋
 
-<!---
-binduramella/binduramella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Email: ramellabindu@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ramellahimabindu1252/
+
+---
+
+## 👨🏻‍💻 About Me
+
+🎓 Pursuing Bachelor's in Information Technology.  
+💻 Passionate about Java, Python, and Data Science.  
+🌱 Currently enhancing skills in Data Analytics and Machine Learning.  
+📈 Interested in Data Analytics and Visualization projects, turning data into captivating insights and impactful visuals.
+
+---
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## ⚙️ GitHub Analytics
+
+### ⚡ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GovardhanaraoKotla&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=GovardhanaraoKotla&theme=radical)
+
+### 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GovardhanaraoKotla&layout=compact&theme=radical)
+
+---
+
+## ✨ Projects & Activities
+
+- 🔭 I’m currently working on data visualization projects.
+- 🌱 I’m learning advanced machine learning techniques.
+- 👯 I’m looking to collaborate on open-source data science projects.
+
+---
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=GovardhanaraoKotla&color=blue)
+
+---
+
+⭐️ Star some of my repositories for future reference!
