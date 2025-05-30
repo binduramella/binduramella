@@ -44,9 +44,9 @@
 
 ## ✨ Projects & Activities
 
-- 🔭 I’m currently working on data visualization projects.
-- 🌱 I’m learning advanced machine learning techniques.
-- 👯 I’m looking to collaborate on open-source data science projects.
+- 🔭 I’m currently working on data Scientist project.
+- 🌱 I’m learning advanced AI concepts.
+- 👯 I’m looking to collaborate on open-source data science and AI projects.
 
 ---
 
