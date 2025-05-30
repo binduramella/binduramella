@@ -1,7 +1,7 @@
 # Hi there, I'm Ramella HimaBindu 👋
 
-Email:(ramellabindu@gmail.com)
-LinkedIn: (https://www.linkedin.com/in/ramellahimabindu1252/)
+[Email](ramellabindu@gmail.com) - [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ramellahimabindu1252/))
+
 
 ---
 
