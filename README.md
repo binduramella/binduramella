@@ -1,7 +1,6 @@
 # Hi there, I'm Ramella HimaBindu 👋
 
-[Email](ramellabindu@gmail.com) - [LinkedIn](https://www.linkedin.com/in/ramellahimabindu1252/)
-
+[Email](mailto:ramellabindu@gmail.com) - [LinkedIn](https://www.linkedin.com/in/ramellahimabindu1252/)
 
 ---
 
@@ -9,8 +8,9 @@
 
 🎓 Pursuing Bachelor's in Information Technology.  
 💻 Passionate about Data Science, AI, Machine Learning, Python, and SQL.  
-🌱 Currently enhancing skills in Data Scientist and Machine Learning.  
+🌱 Currently enhancing skills in Data Science and Machine Learning.  
 📈 Leveraging data science to craft insightful visualizations that transform complex datasets into actionable intelligence.
+
 ---
 
 ## 🛠 Tech Stack
@@ -30,15 +30,15 @@
 
 ### ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GovardhanaraoKotla&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binduramella&show_icons=true&theme=radical)
 
 ### 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=GovardhanaraoKotla&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=binduramella&theme=radical)
 
 ### 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GovardhanaraoKotla&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binduramella&layout=compact&theme=radical)
 
 ---
 
@@ -52,7 +52,7 @@
 
 ## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=GovardhanaraoKotla&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=binduramella&color=blue)
 
 ---
 
