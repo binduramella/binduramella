@@ -1,9 +1,6 @@
-<p align="center">
-  Hi there, I'm <strong>Ramella HimaBindu</strong> 👋<br><br>
-  <a href="mailto:ramellabindu@gmail.com">Email</a> - 
-  <a href="https://www.linkedin.com/in/ramellahimabindu1252/">LinkedIn</a>
-</p>
+# Hi there, I'm Ramella HimaBindu 
 
+[Email](mailto:ramellabindu@gmail.com) - [LinkedIn](https://www.linkedin.com/in/ramellahimabindu1252/)
 ---
 
 ## 👨🏻‍💻 About Me
